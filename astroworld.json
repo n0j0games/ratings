@@ -1,0 +1,27 @@
+{
+    "title" : "ASTROWORLD",
+    "artist" : "Travis Scott",
+    "year" : 2018,
+    "rating" : 10,
+    "image" : "https://m.media-amazon.com/images/I/81nFF-rXdRL._SY450_.jpg",
+    "color" : "#0099DB",
+    "songs" : [
+      { "name" : "STARGAZING", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "CAROUSEL", "artist" : null, "ft" : "Frank Ocean", "rating" : 10},
+      { "name" : "SICKO MODE", "artist" : null, "ft" : "Drake", "rating" : 10},
+      { "name" : "R.I.P SCREW", "artist" : null, "ft" : "Swae Lee", "rating" : 8},
+      { "name" : "STOP TRYING TO BE GOD", "artist" : null, "ft" : "James Blake, Kid Cudi, Philip Bailey & Stevie Wonder", "rating" : 10},
+      { "name" : "NO BYSTANDERS", "artist" : null, "ft" : "Juice WRLD & Sheck Wes", "rating" : 10},
+      { "name" : "SKELETONS", "artist" : null, "ft" : "Pharell Williams, Tame Impala & The Weeknd", "rating" : 10},
+      { "name" : "WAKE UP", "artist" : null, "ft" : "The Weeknd", "rating" : 10},
+      { "name" : "5% TINT", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "NC-17", "artist" : null, "ft" : "21 Savage", "rating" : 10},
+      { "name" : "ASTROTHUNDER", "artist" : null, "ft" : null, "rating" : 8},
+      { "name" : "YOSEMITE", "artist" : null, "ft" : "Gunna & NAV", "rating" : 10},
+      { "name" : "CAN'T SAY", "artist" : null, "ft" : "Don Toliver", "rating" : 10},
+      { "name" : "WHO? WHAT!", "artist" : null, "ft" : "Quavo & Takeoff", "rating" : 10},
+      { "name" : "BUTTERFLY EFFECT", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "HOUSTONFORNICATION", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "COFFEE BEAN", "artist" : null, "ft" : null, "rating" : 8}
+    ]
+}
