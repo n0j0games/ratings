@@ -12,6 +12,12 @@
         { "name" : "All Of The Lights Interlude", "artist" : null, "ft" : null, "rating" : 10},
         { "name" : "All Of The Lights", "artist" : null, "ft" : "Rhianna, Elly Jackson, Kid Cudi, Fergie, Alicia Keys, Elton John, Drake", "rating" : 10},
         { "name" : "Monster", "artist" : null, "ft" : "JAY-Z, Rick Ross, Nicki Minaj, Bon Iver", "rating" : 10},
-        { "name" : "So Appalled", "artist" : null, "ft" : "JAY-Z, Pusha T, CyHi The Prynce, Swizz Beatz, RZA", "rating" : 10}
+        { "name" : "So Appalled", "artist" : null, "ft" : "JAY-Z, Pusha T, CyHi The Prynce, Swizz Beatz, RZA", "rating" : 8},
+        { "name" : "Devil In A New Dress", "artist" : null, "ft" : "Rick Ross", "rating" : 9},
+        { "name" : "Runaway", "artist" : null, "ft" : "Pusha T", "rating" : 10},
+        { "name" : "Hell Of A Life", "artist" : null, "ft" : null, "rating" : 9},
+        { "name" : "Blame Game", "artist" : null, "ft" : "John Legend", "rating" : 10},
+        { "name" : "Lost In The World", "artist" : null, "ft" : "Bon Iver", "rating" : 10},
+        { "name" : "Who Will Survive In America", "artist" : null, "ft" : null, "rating" : 7}
     ]
 }
