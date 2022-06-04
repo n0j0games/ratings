@@ -1,0 +1,16 @@
+{
+    "title" : "My Beautiful Dark Twisted Fantasy",
+    "artist" : "Kanye West",
+    "year" : 2010,
+    "rating" : 10,
+    "image" : "https://static.qobuz.com/images/covers/46/74/0060252747446_600.jpg",
+    "songs" : [
+        { "name" : "Dark Fantasy", "artist" : null, "ft" : "Nicki Minaj & Justin Vernon", "rating" : 10},
+        { "name" : "Gorgeous", "artist" : null, "ft" : "Kid Cudi & Reakwon", "rating" : 10},
+        { "name" : "POWER", "artist" : null, "ft" : null, "rating" : 10},
+        { "name" : "All Of The Lights Interlude", "artist" : null, "ft" : null, "rating" : 10},
+        { "name" : "All Of The Lights", "artist" : null, "ft" : "Rhianna, Elly Jackson, Kid Cudi, Fergie, Alicia Keys, Elton John, Drake", "rating" : 10},
+        { "name" : "Monster", "artist" : null, "ft" : "JAY-Z, Rick Ross, Nicki Minaj, Bon Iver", "rating" : 10},
+        { "name" : "So Appalled", "artist" : null, "ft" : "JAY-Z, Pusha T, CyHi The Prynce, Swizz Beatz, RZA", "rating" : 10},
+    ]
+}
