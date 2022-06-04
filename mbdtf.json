@@ -4,6 +4,7 @@
     "year" : 2010,
     "rating" : 10,
     "image" : "https://static.qobuz.com/images/covers/46/74/0060252747446_600.jpg",
+    "color" : "#E43B44",
     "songs" : [
         { "name" : "Dark Fantasy", "artist" : null, "ft" : "Nicki Minaj & Justin Vernon", "rating" : 10},
         { "name" : "Gorgeous", "artist" : null, "ft" : "Kid Cudi & Reakwon", "rating" : 10},
