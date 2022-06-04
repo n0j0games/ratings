@@ -1,0 +1,23 @@
+{
+    "title" : "NOT ALL HEROES WEAR CAPES",
+    "artist" : "Metro Boomin",
+    "year" : 2018,
+    "rating" : 10,
+    "image" : "https://m.media-amazon.com/images/I/81KHJhGKBYL._SL1200_.jpg",
+    "color" : "#F77622",
+    "songs" : [
+      { "name" : "10AM/Save The World", "artist" : "Gucci Mane", "ft" : null, "rating" : 9},
+      { "name" : "Overdue", "artist" : "Travis Scott", "ft" : null, "rating" : 10},
+      { "name" : "Don't Come Out The House", "artist" : "21 Savage", "ft" : null, "rating" : 9},
+      { "name" : "Dreamcatcher", "artist" : "Swae Lee & Travis Scott", "ft" : null, "rating" : 9},
+      { "name" : "Space Cadet", "artist" : "Gunna", "ft" : null, "rating" : 10},
+      { "name" : "10 Freaky Girls", "artist" : "21 Savage", "ft" : null, "rating" : 10},
+      { "name" : "Up To Something", "artist" : "Travis Scott & Young Thug", "ft" : null, "rating" : 10},
+      { "name" : "Only 1 (Interlude)", "artist" : "Travis Scott", "ft" : null, "rating" : 10},
+      { "name" : "Lesbian", "artist" : "Gunna & Young Thug", "ft" : null, "rating" : 9},
+      { "name" : "Borrowed Love", "artist" : "Swae Lee & WizKid", "ft" : null, "rating" : 10},
+      { "name" : "Only You", "artist" : "WizKid, Offset & J Balvin", "ft" : null, "rating" : 8},
+      { "name" : "No More", "artist" : "Travis Scott, Kodak Black & 21 Savage", "ft" : null, "rating" : 10},
+      { "name" : "No Complaints (Bonus)", "artist" : "Offset & Drake", "ft" : null, "rating" : 9}
+    ]
+}
