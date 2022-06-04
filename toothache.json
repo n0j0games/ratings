@@ -1,0 +1,24 @@
+{
+    "title" : "Twelve Carat Toothache",
+    "artist" : "Post Malone",
+    "year" : 2022,
+    "rating" : "8",
+    "image" : "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/0d/e8/8b/0de88b7c-bed9-be30-24e2-82d796e7bcf3/22UMGIM49145.rgb.jpg/1200x1200bf-60.jpg",
+    "color" : "#394A50",
+    "songs" : [
+      { "name" : "Reputation", "artist" : null, "ft" : null, "rating" : 9},
+      { "name" : "Cooped Up", "artist" : null, "ft" : "Roddy Ricch", "rating" : 7},
+      { "name" : "Lemon Tree", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "Wrapped Around Your Finger", "artist" : null, "ft" : null, "rating" : 8},
+      { "name" : "I Like You (A Happier Song)", "artist" : null, "ft" : "Doja Cat", "rating" : 9},
+      { "name" : "I Cannot Be (A Sadder Song)", "artist" : null, "ft" : "Gunna", "rating" : 8},
+      { "name" : "Insane", "artist" : null, "ft" : null, "rating" : 7},
+      { "name" : "Love/Hate Letter To Alcohol", "artist" : null, "ft" : "Fleet Foxes", "rating" : 10},
+      { "name" : "Wasting Angels", "artist" : null, "ft" : "The Kid LAROI", "rating" : 10},
+      { "name" : "Euthanasia", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "When I'm Alone", "artist" : null, "ft" : null, "rating" : 6},
+      { "name" : "Waiting For A Miracle", "artist" : null, "ft" : null, "rating" : 6},
+      { "name" : "One Right Now", "artist" : null, "ft" : "The Weeknd", "rating" : 9},
+      { "name" : "New Recording 12, Jan 3, 2020", "artist" : null, "ft" : null, "rating" : 8}
+    ]
+}
