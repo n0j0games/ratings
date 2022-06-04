@@ -1,0 +1,26 @@
+{
+    "title" : "Rodeo",
+    "artist" : "Artist",
+    "year" : 2015,
+    "rating" : 10,
+    "image" : "https://m.media-amazon.com/images/I/71RDpVmr2hL._SL1500_.jpg",
+    "color" : "#733E39",
+    "songs" : [
+      { "name" : "Pornography", "artist" : null, "ft" : null, "rating" : 0},
+      { "name" : "Oh My Dis Side", "artist" : null, "ft" : "Quavo", "rating" : 10},
+      { "name" : "3500", "artist" : null, "ft" : "Future & 2 Chainz", "rating" : 9},
+      { "name" : "Wasted", "artist" : null, "ft" : "Juicy J", "rating" : 5},
+      { "name" : "90210", "artist" : null, "ft" : "Kacy Hill", "rating" : 10},
+      { "name" : "Pray 4 Love", "artist" : null, "ft" : "The Weeknd", "rating" : 10},
+      { "name" : "Nightcrawler", "artist" : null, "ft" : "Swae Lee & Chief Keef", "rating" : 10},
+      { "name" : "Piss On Your Grave", "artist" : null, "ft" : "Kanye West", "rating" : 9},
+      { "name" : "Antidote", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "Impossible", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "Maria I'm Drunk", "artist" : null, "ft" : "Justin Bieber & Young Thug", "rating" : 10},
+      { "name" : "Flying High", "artist" : null, "ft" : "Toro y Moi", "rating" : 7},
+      { "name" : "I Can Tell", "artist" : null, "ft" : null, "rating" : 9},
+      { "name" : "Apple Pie", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "Ok Alright", "artist" : null, "ft" : "ScHoolboy Q", "rating" : 8},
+      { "name" : "Never Catch Me", "artist" : null, "ft" : null, "rating" : 9}
+    ]
+}
