@@ -6,7 +6,7 @@
     "image" : "https://m.media-amazon.com/images/I/71RDpVmr2hL._SL1500_.jpg",
     "color" : "#733E39",
     "songs" : [
-      { "name" : "Pornography", "artist" : null, "ft" : null, "rating" : 0},
+      { "name" : "Pornography", "artist" : null, "ft" : null, "rating" : 8},
       { "name" : "Oh My Dis Side", "artist" : null, "ft" : "Quavo", "rating" : 10},
       { "name" : "3500", "artist" : null, "ft" : "Future & 2 Chainz", "rating" : 9},
       { "name" : "Wasted", "artist" : null, "ft" : "Juicy J", "rating" : 5},
