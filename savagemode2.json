@@ -1,0 +1,23 @@
+{
+    "title" : "Savage Mode II",
+    "artist" : "21 Savage - Metro Boomin",
+    "year" : 2020,
+    "rating" : 7,
+    "image" : "https://m.media-amazon.com/images/I/810FwZCZMpL._SY355_.jpg",
+    "color" : "#B4202A",
+    "songs" : [
+      { "name" : "Runnin", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "Glock In My Lap", "artist" : null, "ft" : null, "rating" : 9},
+      { "name" : "Mr. Right Now", "artist" : null, "ft" : "Drake", "rating" : 10},
+      { "name" : "Rich Nigga Shit", "artist" : null, "ft" : "Young Thug", "rating" : 8},
+      { "name" : "Slidin", "artist" : null, "ft" : null, "rating" : 8},
+      { "name" : "Many Men", "artist" : null, "ft" : null, "rating" : 7},
+      { "name" : "Snitches & Rats", "artist" : null, "ft" : "Young Nudy", "rating" : 6},
+      { "name" : "My Dawg", "artist" : null, "ft" : null, "rating" : 6},
+      { "name" : "Steppin On Niggas", "artist" : null, "ft" : null, "rating" : 5},
+      { "name" : "Brand New Draco", "artist" : null, "ft" : null, "rating" : 6},
+      { "name" : "No Opp Left Behind", "artist" : null, "ft" : null, "rating" : 7},
+      { "name" : "RIP Luv", "artist" : null, "ft" : null, "rating" : 6},
+      { "name" : "Said N Done", "artist" : null, "ft" : null, "rating" : 5}
+    ]
+}
