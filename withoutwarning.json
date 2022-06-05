@@ -1,0 +1,20 @@
+{
+    "title" : "Without Warning",
+    "artist" : "21 Savage - Offset - Metro Boomin",
+    "year" : 2017,
+    "rating" : 7,
+    "image" : "https://m.media-amazon.com/images/I/91dM0+clRWL._SS500_.jpg",
+    "color" : "#B4202A",
+    "songs" : [
+      { "name" : "Ghostface Killers", "artist" : "21 Savage & Offset", "ft" : "Travis Scott", "rating" : 10},
+      { "name" : "Rap Saved Me", "artist" : "21 Savage & Offset", "ft" : "Quavo", "rating" : 7},
+      { "name" : "Ric Flair Drip", "artist" : "Offset", "ft" : null, "rating" : 10},
+      { "name" : "My Choppa Hate Niggas", "artist" : "21 Savage", "ft" : null, "rating" : 7},
+      { "name" : "Nightmare", "artist" : "Offset", "ft" : null, "rating" : 7},
+      { "name" : "Med Stalkers", "artist" : "21 Savage & Offset", "ft" : null, "rating" : 5},
+      { "name" : "Disrespectful", "artist" : "21 Savage & Offset", "ft" : null, "rating" : 6},
+      { "name" : "Run Up the Racks", "artist" : "21 Savage", "ft" : null, "rating" : 6},
+      { "name" : "Still Serving", "artist" : "21 Savage & Offset", "ft" : null, "rating" : 7},
+      { "name" : "Darth Vader", "artist" : "21 Savage & Offset", "ft" : null, "rating" : 6}
+    ]
+}
