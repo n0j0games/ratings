@@ -1,0 +1,28 @@
+{
+    "title" : "Mr. Morale & The Big Steppers",
+    "artist" : "Kendrick Lamar",
+    "year" : 2022,
+    "rating" : 9,
+    "image" : "https://static.qobuz.com/images/covers/ha/xj/cr4uvno33xjha_600.jpg",
+    "color" : "#B1A282",
+    "songs" : [
+      { "name" : "United In Grief", "artist" : null, "ft" : null, "rating" : 9},
+      { "name" : "N95", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "Worldwide Steppers", "artist" : null, "ft" : null, "rating" : 8},
+      { "name" : "Die Hard", "artist" : null, "ft" : "Blxst & Amanda Reifer", "rating" : 10},
+      { "name" : "Father Time", "artist" : null, "ft" : "Sampha", "rating" : 10},
+      { "name" : "Rich - Interlude", "artist" : "Kodak Black", "ft" : null, "rating" : 9},
+      { "name" : "Rich Spirit", "artist" : null, "ft" : null, "rating" : 9},
+      { "name" : "We Cry Together", "artist" : null, "ft" : "Taylour Paige", "rating" : 8},
+      { "name" : "Purple Hearts", "artist" : null, "ft" : "Summer Walker & Ghostface Killah", "rating" : 8},
+      { "name" : "Count Me Out", "artist" : null, "ft" : "Sam Dew", "rating" : 10},
+      { "name" : "Crown", "artist" : null, "ft" : null, "rating" : 7},
+      { "name" : "Silent Hill", "artist" : null, "ft" : "Kodak Black", "rating" : 8},
+      { "name" : "Savior - Interlude", "artist" : "Baby Keem", "ft" : null, "rating" : 10},
+      { "name" : "Savior", "artist" : null, "ft" : "Baby Keem, Sam Dew", "rating" : 10},
+      { "name" : "Auntie Diaries", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "Mr. Morale", "artist" : null, "ft" : "Tanna Leone", "rating" : 9},
+      { "name" : "Mother I Sober", "artist" : null, "ft" : "Beth Gibbons", "rating" : 7},
+      { "name" : "Mirror", "artist" : null, "ft" : null, "rating" : 7}
+    ]
+}
