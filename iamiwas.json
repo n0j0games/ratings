@@ -1,0 +1,26 @@
+{
+    "title" : "i am > i was",
+    "artist" : "21 Savage",
+    "year" : 2018,
+    "rating" : 8,
+    "image" : "https://m.media-amazon.com/images/I/712Rkd6CIKL._SL1500_.jpg",
+    "color" : "#515F69",
+    "songs" : [
+      { "name" : "a lot", "artist" : null, "ft" : "J Cole", "rating" : 10},
+      { "name" : "break da law", "artist" : null, "ft" : null, "rating" : 8},
+      { "name" : "a&t", "artist" : null, "ft" : "Yung Miami", "rating" : 9},
+      { "name" : "out for the night", "artist" : null, "ft" : null, "rating" : 6},
+      { "name" : "gun smoke", "artist" : null, "ft" : null, "rating" : 9},
+      { "name" : "1.5", "artist" : null, "ft" : "Offset", "rating" : 7},
+      { "name" : "all my friends", "artist" : null, "ft" : "Post Malone", "rating" : 10},
+      { "name" : "can't leave without it", "artist" : null, "ft" : "Gunna & Lil Baby", "rating" : 9},
+      { "name" : "asmr", "artist" : null, "ft" : null, "rating" : 9},
+      { "name" : "ball w/o you", "artist" : null, "ft" : null, "rating" : 8},
+      { "name" : "good days", "artist" : null, "ft" : "Project Pat & ScHoolboy Q", "rating" : 5},
+      { "name" : "pad lock", "artist" : null, "ft" : null, "rating" : 8},
+      { "name" : "monster", "artist" : null, "ft" : "Childish Gambino", "rating" : 10},
+      { "name" : "letter 2 my momma", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "4L", "artist" : null, "ft" : "Young Nudy", "rating" : 6},
+      { "name" : "out for the night, p2. 2", "artist" : null, "ft" : "Travis Scott", "rating" : 8}
+    ]
+}
