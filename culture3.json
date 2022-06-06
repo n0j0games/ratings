@@ -1,0 +1,29 @@
+{
+    "title" : "Culture III",
+    "artist" : "Migos",
+    "year" : 2021,
+    "rating" : 8,
+    "image" : "https://upload.wikimedia.org/wikipedia/en/2/2d/Migos_-_Culture_III.png",
+    "color" : "#1ABC9C",
+    "songs" : [
+      { "name" : "Avalanche", "artist" : null, "ft" : null, "rating" : 9},
+      { "name" : "Having Our Way", "artist" : null, "ft" : "Drake", "rating" : 9},
+      { "name" : "Straightenin", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "Type Shit", "artist" : null, "ft" : "Cardi B", "rating" : 6},
+      { "name" : "Malibu", "artist" : null, "ft" : "Polo G", "rating" : 9},
+      { "name" : "Birthday", "artist" : null, "ft" : null, "rating" : 6},
+      { "name" : "Modern Day", "artist" : null, "ft" : null, "rating" : 8},
+      { "name" : "Vaccine", "artist" : null, "ft" : null, "rating" : 8},
+      { "name" : "Picasso", "artist" : null, "ft" : "Future", "rating" : 7},
+      { "name" : "Roadrunner", "artist" : null, "ft" : null, "rating" : 8},
+      { "name" : "What You See", "artist" : null, "ft" : "Justin Bieber", "rating" : 10},
+      { "name" : "Jane", "artist" : null, "ft" : null, "rating" : 9},
+      { "name" : "Antisocial", "artist" : null, "ft" : "Juice WRLD", "rating" : 9},
+      { "name" : "Why Not", "artist" : null, "ft" : null, "rating" : 5},
+      { "name" : "Mahomes", "artist" : null, "ft" : null, "rating" : 5},
+      { "name" : "Handle My Business", "artist" : null, "ft" : null, "rating" : 6},
+      { "name" : "Time For Me", "artist" : null, "ft" : null, "rating" : 7},
+      { "name" : "Light It Up", "artist" : null, "ft" : "Pop Smoke", "rating" : 9},
+      { "name" : "Need It", "artist" : null, "ft" : "YoungBoy Never Broke Again", "rating" : 10}
+    ]
+}
