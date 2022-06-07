@@ -6,10 +6,10 @@
     "image" : "https://m.media-amazon.com/images/I/71RDpVmr2hL._SL1500_.jpg",
     "color" : "#733E39",
     "songs" : [
-      { "name" : "Pornography", "artist" : null, "ft" : null, "rating" : 8},
+      { "name" : "Pornography", "artist" : null, "ft" : null, "rating" : 9},
       { "name" : "Oh My Dis Side", "artist" : null, "ft" : "Quavo", "rating" : 10},
       { "name" : "3500", "artist" : null, "ft" : "Future & 2 Chainz", "rating" : 9},
-      { "name" : "Wasted", "artist" : null, "ft" : "Juicy J", "rating" : 5},
+      { "name" : "Wasted", "artist" : null, "ft" : "Juicy J", "rating" : 7},
       { "name" : "90210", "artist" : null, "ft" : "Kacy Hill", "rating" : 10},
       { "name" : "Pray 4 Love", "artist" : null, "ft" : "The Weeknd", "rating" : 10},
       { "name" : "Nightcrawler", "artist" : null, "ft" : "Swae Lee & Chief Keef", "rating" : 10},
