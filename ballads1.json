@@ -1,0 +1,22 @@
+{
+    "title" : "BALLADS 1",
+    "artist" : "Joji",
+    "year" : 2018,
+    "rating" : 7,
+    "image" : "https://m.media-amazon.com/images/I/81pf4NjVhfL._SL1500_.jpg",
+    "color" : "#3C5E8B",
+    "songs" : [
+      { "name" : "ATTENTION", "artist" : null, "ft" : null, "rating" : 7},
+      { "name" : "SLOW DANCING IN THE DARK", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "TEST DRIVE", "artist" : null, "ft" : null, "rating" : 8},
+      { "name" : "WANTED U", "artist" : null, "ft" : null, "rating" : 7},
+      { "name" : "CAN'T GET OVER YOU", "artist" : null, "ft" : "Clams Casino", "rating" : 6},
+      { "name" : "YEAH RIGHT", "artist" : null, "ft" : null, "rating" : 9},
+      { "name" : "WHY AM I STILL IN LA", "artist" : null, "ft" : "Shlohmo & D33J", "rating" : 7},
+      { "name" : "NO FUN", "artist" : null, "ft" : null, "rating" : 7},
+      { "name" : "COME THRU", "artist" : null, "ft" : null, "rating" : 6},
+      { "name" : "R.I.P.", "artist" : null, "ft" : "Trippie Redd", "rating" : 7},
+      { "name" : "XNXX", "artist" : null, "ft" : null, "rating" : 7},
+      { "name" : "I'LL SEE YOU IN 40", "artist" : null, "ft" : null, "rating" : 6}
+    ]
+}
