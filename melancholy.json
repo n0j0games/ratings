@@ -1,0 +1,16 @@
+{
+    "title" : "My Dear Melancholy,",
+    "artist" : "The Weeknd",
+    "year" : 2018,
+    "rating" : 8,
+    "image" : "https://m.media-amazon.com/images/I/818RSApG0PL._SL1400_.jpg",
+    "color" : "#DF3E23",
+    "songs" : [
+      { "name" : "Call Out My Name", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "Try Me", "artist" : null, "ft" : null, "rating" : 7},
+      { "name" : "Wasted Times", "artist" : null, "ft" : null, "rating" : 8},
+      { "name" : "I Was Never There", "artist" : null, "ft" : "Gestaffelstein", "rating" : 7},
+      { "name" : "Hurt You", "artist" : null, "ft" : "Gestaffelstein", "rating" : 7},
+      { "name" : "Privilege", "artist" : null, "ft" : null, "rating" : 6}
+    ]
+}
