@@ -1,0 +1,24 @@
+{
+    "title" : "After Hours",
+    "artist" : "The Weeknd",
+    "year" : 2020,
+    "rating" : 10,
+    "image" : "https://m.media-amazon.com/images/I/A1tJHOT7TqL._SL1500_.jpg",
+    "color" : "#328464",
+    "songs" : [
+      { "name" : "Alone Again", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "Too Late", "artist" : null, "ft" : null, "rating" : 8},
+      { "name" : "Hardest To Love", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "Scared To Live", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "Snowchild", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "Escape From LA", "artist" : null, "ft" : null, "rating" : 7},
+      { "name" : "Heartless", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "Faith", "artist" : null, "ft" : null, "rating" : 9},
+      { "name" : "Blinding Lights", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "In Your Eyes", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "Save Your Tears", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "Repeat After Me (Interlude", "artist" : null, "ft" : null, "rating" : 9},
+      { "name" : "After Hours", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "Until I Bleed Out", "artist" : null, "ft" : null, "rating" : 9}
+    ]
+}
