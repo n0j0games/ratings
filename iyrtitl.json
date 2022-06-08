@@ -1,0 +1,27 @@
+{
+    "title" : "If You're Reading This It's Too Late",
+    "artist" : "Drake",
+    "year" : 2015,
+    "rating" : 8,
+    "image" : "https://m.media-amazon.com/images/I/61UnhwwC9IL._SL1400_.jpg",
+    "color" : "#7F8C8D",
+    "songs" : [
+      { "name" : "Legend", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "Energy", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "10 Bands", "artist" : null, "ft" : null, "rating" : 9},
+      { "name" : "Know Yourself", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "No Tellin'", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "Madonna", "artist" : null, "ft" : null, "rating" : 5},
+      { "name" : "6 God", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "Star67", "artist" : null, "ft" : null, "rating" : 7},
+      { "name" : "Preach", "artist" : null, "ft" : "PARTYNEXTDOOR", "rating" : 7},
+      { "name" : "Wednesday Night Interlude", "artist" : "PARTYNEXTDOOR", "ft" : null, "rating" : 10},
+      { "name" : "Used To", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "6 Man", "artist" : null, "ft" : null, "rating" : 8},
+      { "name" : "Now & Forever", "artist" : null, "ft" : null, "rating" : 6},
+      { "name" : "Company", "artist" : null, "ft" : "Travis Scott", "rating" : 10},
+      { "name" : "You & The 6", "artist" : null, "ft" : null, "rating" : 6},
+      { "name" : "Jungle", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "6PM In New York", "artist" : null, "ft" : null, "rating" : 6}
+    ]
+}
