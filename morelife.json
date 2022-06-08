@@ -1,0 +1,32 @@
+{
+    "title" : "More Life",
+    "artist" : "Drake",
+    "year" : 2017,
+    "rating" : 9,
+    "image" : "https://m.media-amazon.com/images/I/81W5PyxbRiL._SL1500_.jpg",
+    "color" : "#124E89",
+    "songs" : [
+      { "name" : "Free Smoke", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "No Long Talk", "artist" : null, "ft" : "Giggs", "rating" : 9},
+      { "name" : "Passionfruit", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "Jorja Interlude", "artist" : null, "ft" : "Jorja Smith", "rating" : 7},
+      { "name" : "Get It Together", "artist" : null, "ft" : "Jorja Smith & Black Coffee", "rating" : 8},
+      { "name" : "Madliba Riddim", "artist" : null, "ft" : null, "rating" : 8},
+      { "name" : "Blem", "artist" : null, "ft" : null, "rating" : 7},
+      { "name" : "4422", "artist" : "Sampha", "ft" : null, "rating" : 10},
+      { "name" : "Gyalchester", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "Skepta Interlude", "artist" : "Skepta", "ft" : null, "rating" : 9},
+      { "name" : "Portland", "artist" : null, "ft" : "Quavo & Travis Scott", "rating" : 10},
+      { "name" : "Sacrifices", "artist" : null, "ft" : "2 Chainz & Young Thug", "rating" : 7},
+      { "name" : "Nothings Into Somethings", "artist" : null, "ft" : null, "rating" : 9},
+      { "name" : "Teenage Fever", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "KMT", "artist" : null, "ft" : null, "rating" : 9},
+      { "name" : "Lose You", "artist" : null, "ft" : null, "rating" : 7},
+      { "name" : "Can't Have Everything", "artist" : null, "ft" : null, "rating" : 6},
+      { "name" : "Glow", "artist" : null, "ft" : "Kanye West", "rating" : 9},
+      { "name" : "Since Way Back", "artist" : null, "ft" : "PARTYNEXTDOOR", "rating" : 7},
+      { "name" : "Fake Love", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "Ice Melts", "artist" : null, "ft" : "Young Thug", "rating" : 9},
+      { "name" : "Do Not Disturb", "artist" : null, "ft" : null, "rating" : 10}
+    ]
+}
