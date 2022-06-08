@@ -21,6 +21,6 @@
       { "name" : "Pound Cake / Paris Morton Music 2", "artist" : null, "ft" : "JAY-Z", "rating" : 10},
       { "name" : "Come Thru", "artist" : null, "ft" : null, "rating" : 10},
       { "name" : "All Me", "artist" : null, "ft" : "2 Chainz & Big Sean", "rating" : 10},
-      { "name" : "The Motion", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "The Motion", "artist" : null, "ft" : null, "rating" : 10}
     ]
 }
