@@ -1,0 +1,28 @@
+{
+    "title" : "Shoot For The Stars Aim For The Moon",
+    "artist" : "Pop Smoke",
+    "year" : 2020,
+    "rating" : 10,
+    "image" : "https://i.scdn.co/image/ab67616d0000b2735ed042f6acab601cada08c61",
+    "color" : "#402751",
+    "songs" : [
+      { "name" : "Bad Bitch From Tokyo (Intro)", "artist" : null, "ft" : null, "rating" : 10, "tag" : null},
+      { "name" : "Aim For The Moon", "artist" : null, "ft" : "Quavo", "rating" : 10, "tag" : null},
+      { "name" : "For The Night", "artist" : null, "ft" : "Lil Baby & DaBaby", "rating" : 10, "tag" : null},
+      { "name" : "44 BullDog", "artist" : null, "ft" : null, "rating" : 10, "tag" : null},
+      { "name" : "Gangstas", "artist" : null, "ft" : null, "rating" : 10, "tag" : null},
+      { "name" : "Yea Yea", "artist" : null, "ft" : null, "rating" : 9, "tag" : null},
+      { "name" : "Creature", "artist" : null, "ft" : "Swae Lee", "rating" : 8, "tag" : null},
+      { "name" : "Snitching", "artist" : null, "ft" : "Quavo & Future", "rating" : 7, "tag" : null},
+      { "name" : "Make It Rain", "artist" : null, "ft" : "Rowdy Rebel", "rating" : 10, "tag" : null},
+      { "name" : "The Woo", "artist" : null, "ft" : "50 Cent & Roddy Ricch", "rating" : 10, "tag" : null},
+      { "name" : "West Coast Shit", "artist" : null, "ft" : "Tyga & Quavo", "rating" : 8, "tag" : null},
+      { "name" : "Enjoy Yourself", "artist" : null, "ft" : "KAROL G", "rating" : 6, "tag" : null},
+      { "name" : "Mood Swings", "artist" : null, "ft" : "Lil Tjay", "rating" : 10, "tag" : null},
+      { "name" : "Something Special", "artist" : null, "ft" : null, "rating" : 8, "tag" : null},
+      { "name" : "What You Know Bout Love", "artist" : null, "ft" : null, "rating" : 10, "tag" : null},
+      { "name" : "Diana", "artist" : null, "ft" : "King Combs", "rating" : 10, "tag" : null},
+      { "name" : "Got It On Me", "artist" : null, "ft" : null, "rating" : 10, "tag" : null},
+      { "name" : "Tunnel Vision (Outro)", "artist" : null, "ft" : null, "rating" : 8, "tag" : null}
+    ]
+}
