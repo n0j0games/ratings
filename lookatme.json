@@ -1,0 +1,22 @@
+{
+    "title" : "LOOK AT ME: THE ALBUM",
+    "artist" : "XXXTENTACION",
+    "year" : 2022,
+    "rating" : X,
+    "image" : "https://hiphop.de/sites/default/files/styles/release_cover_full_/public/2022-06/xxxcover2022.jpg",
+    "color" : "#6D758D",
+    "songs" : [
+      { "name" : "vice city", "artist" : null, "ft" : null, "rating" : 10, "tag" : null},
+      { "name" : "NEVER", "artist" : null, "ft" : null, "rating" : 6, "tag" : null},
+      { "name" : "rare", "artist" : null, "ft" : null, "rating" : 6, "tag" : null},
+      { "name" : "FUXK", "artist" : null, "ft" : "Ski Mask the Slump God", "rating" : 8, "tag" : null},
+      { "name" : "WingRiddenAngel", "artist" : null, "ft" : null, "rating" : 6, "tag" : null},
+        { "name" : "King Of The Dead", "artist" : null, "ft" : null, "rating" : 9, "tag" : null},
+      { "name" : "FAILURE IS NOT AN OPTION (Interlude)", "artist" : null, "ft" : null, "rating" : 4, "tag" : null},
+      { "name" : "#ImSippinTeaInYoHood", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
+      { "name" : "I spoke to the devil in miami, he said everything would be fine", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
+      { "name" : "Willy Wonka Was a Child Murderer", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
+      { "name" : "KILL ME (Pain From The Jail Phone)", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
+      { "name" : "True Love", "artist" : null, "ft" : "Kanye West", "rating" : X, "tag" : null},
+    ]
+}
