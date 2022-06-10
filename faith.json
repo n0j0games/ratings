@@ -9,7 +9,7 @@
       { "name" : "More Time", "artist" : null, "ft" : null, "rating" : 9, "tag" : null},
       { "name" : "Tell The Vision", "artist" : null, "ft" : "Kanye West & Pusha T", "rating" : 10, "tag" : null},
       { "name" : "Manslaughter", "artist" : null, "ft" : "Rick Ross & The-Dream", "rating" : 10, "tag" : null},
-      { "name" : "Bout A Million", "artist" : null, "ft" : "21 Savage & 42 Dugg", "rating" : 10, "tag" : null},
+      { "name" : "Bout A Million", "artist" : null, "ft" : "21 Savage & 42 Dugg", "rating" : 9, "tag" : null},
       { "name" : "Brush Em", "artist" : null, "ft" : "Rah Swish", "rating" : 7, "tag" : null},
       { "name" : "Top Shotta", "artist" : null, "ft" : "The Neptunes, BEAM, Pusha T & TRAVI", "rating" : 2, "tag" : null},
       { "name" : "30", "artist" : null, "ft" : "Bizzy Banks", "rating" : 8, "tag" : null},
