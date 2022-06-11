@@ -1,8 +1,9 @@
 {
   "structure" : [
-    { "type" : "tag" , "content" : "new" },
-    { "type" : "artist" , "content" : "Travis Scott" },
-    { "type" : "artist" , "content" : "Kanye West" }
+    { "type" : "tag" , "content" : "new" , "label" : "10/10" },
+    { "type" : "tag" , "content" : "new" , "label" : "Neue Alben" },
+    { "type" : "artist" , "content" : "Travis Scott" : "label" : "Travis Scott" },
+    { "type" : "artist" , "content" : "Kanye West" : "label" : "Kanye West" }
     ],
   "albums" : [
     "toothache", "astroworld","mbdtf","rodeo","nahwc","savagemode2","iamiwas","birds","withoutwarning","mrmorale","culture3","getrich","ballads1",
