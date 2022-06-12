@@ -1,7 +1,7 @@
 {
   "albums" : [
-    "toothache", "astroworld","mbdtf","rodeo","nahwc","savagemode2","iamiwas","birds","withoutwarning","mrmorale","culture3","getrich","ballads1",
-    "morelife","iyrtitl","nwts","afterhours","bbtm","melancholy","shoot4","shoot4deluxe","faith","woo2"
+    "astroworld","mbdtf","rodeo","nahwc","savagemode2","iamiwas","birds","withoutwarning","mrmorale","culture3","getrich","ballads1",
+    "morelife","iyrtitl","nwts","afterhours","bbtm","melancholy","shoot4","shoot4deluxe","faith","woo2","toothache","trip"
     ],
   "structure" : [
     { "type" : "tag" , "content" : "new" , "label" : "10/10" },
