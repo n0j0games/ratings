@@ -1,0 +1,16 @@
+{
+    "title" : "To Pimp A Butterfly",
+    "artist" : "Kendrick Lamar",
+    "year" : 2015,
+    "rating" : X,
+    "image" : "https://m.media-amazon.com/images/I/71NUQhdZDJL._SL1200_.jpg",
+    "color" : "#cccccc",
+    "songs" : [
+      { "name" : "Wesley's Theory", "artist" : null, "ft" : "George Clinton & Thundercat", "rating" : 9, "tag" : null},
+      { "name" : "For Free? - Interlude", "artist" : null, "ft" : null, "rating" : 9, "tag" : null},
+      { "name" : "King Kunta", "artist" : null, "ft" : null, "rating" : 10, "tag" : null},
+      { "name" : "Institutionalized", "artist" : null, "ft" : "Bilal, Anna Wise & Snoop Dogg", "rating" : 8, "tag" : null},
+      { "name" : "These Walls", "artist" : null, "ft" : "Bilal, Anna Wise & Thundercat", "rating" : 7, "tag" : null},
+      { "name" : "u", "artist" : null, "ft" : null, "rating" : 7, "tag" : null},
+    ]
+}
