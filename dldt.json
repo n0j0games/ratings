@@ -19,6 +19,6 @@
       { "name" : "Losses", "artist" : null, "ft" : null, "rating" : 6, "tag" : null},
       { "name" : "From Florida With Love", "artist" : null, "ft" : null, "rating" : 5, "tag" : null},
       { "name" : "Demons", "artist" : null, "ft" : "Fivio Foreign & Sosa Geek", "rating" : 10, "tag" : null},
-      { "name" : "War", "artist" : null, "ft" : null, "rating" : 10, "tag" : null},
+      { "name" : "War", "artist" : null, "ft" : null, "rating" : 10, "tag" : null}
     ]
 }
