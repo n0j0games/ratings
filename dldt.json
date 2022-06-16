@@ -1,0 +1,24 @@
+{
+    "title" : "Dark Lane Demo Tapes",
+    "artist" : "Drake",
+    "year" : 2020,
+    "rating" : 8,
+    "image" : "https://upload.wikimedia.org/wikipedia/en/6/6b/Drake_-_Dark_Lane_Demo_Tapes.png",
+    "color" : "#5F6D43",
+    "songs" : [
+      { "name" : "Deep Pockets", "artist" : null, "ft" : null, "rating" : 7, "tag" : null},
+      { "name" : "When To Say When", "artist" : null, "ft" : null, "rating" : 9, "tag" : null},
+      { "name" : "Chicago Freestyle", "artist" : null, "ft" : "Giveon", "rating" : 10, "tag" : null},
+      { "name" : "Not You Too", "artist" : null, "ft" : "Chris Brown", "rating" : 9, "tag" : null},
+      { "name" : "Toosie Slide", "artist" : null, "ft" : null, "rating" : 10, "tag" : null},
+      { "name" : "Desires", "artist" : null, "ft" : "Future", "rating" : 9, "tag" : null},
+      { "name" : "Time Flies", "artist" : null, "ft" : null, "rating" : 10, "tag" : null},
+      { "name" : "Landed", "artist" : null, "ft" : null, "rating" : 7, "tag" : null},
+      { "name" : "D4L", "artist" : null, "ft" : "Future & Young Thug", "rating" : 9, "tag" : null},
+      { "name" : "Pain 1993", "artist" : null, "ft" : "Playboi Carti", "rating" : 7, "tag" : null},
+      { "name" : "Losses", "artist" : null, "ft" : null, "rating" : 6, "tag" : null},
+      { "name" : "From Florida With Love", "artist" : null, "ft" : null, "rating" : 5, "tag" : null},
+      { "name" : "Demons", "artist" : null, "ft" : "Fivio Foreign & Sosa Geek", "rating" : 10, "tag" : null},
+      { "name" : "War", "artist" : null, "ft" : null, "rating" : 10, "tag" : null},
+    ]
+}
