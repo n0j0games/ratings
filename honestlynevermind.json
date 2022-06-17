@@ -1,0 +1,23 @@
+{
+    "title" : "Honestly, Nevermind",
+    "artist" : "Drake",
+    "year" : 2022,
+    "rating" : X,
+    "image" : "https://i.scdn.co/image/ab67616d0000b27322dfcfcc0742f339986d20cb",
+    "color" : "#3C5E8B",
+    "songs" : [
+      { "name" : "Falling Back", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
+      { "name" : "", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
+      { "name" : "", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
+      { "name" : "", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
+      { "name" : "", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
+      { "name" : "", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
+      { "name" : "", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
+      { "name" : "", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
+      { "name" : "", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
+      { "name" : "", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
+      { "name" : "", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
+      { "name" : "", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
+      { "name" : "Jimmy Cooks", "artist" : null, "ft" : "21 Savage", "rating" : 10, "tag" : null}
+    ]
+}
