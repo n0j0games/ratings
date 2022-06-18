@@ -2,7 +2,7 @@
     "title" : "Honestly, Nevermind",
     "artist" : "Drake",
     "year" : 2022,
-    "rating" : X,
+    "rating" : 7,
     "image" : "https://i.scdn.co/image/ab67616d0000b27322dfcfcc0742f339986d20cb",
     "color" : "#3C5E8B",
     "songs" : [
@@ -12,12 +12,12 @@
       { "name" : "A Keeper", "artist" : null, "ft" : null, "rating" : 6, "tag" : null},
       { "name" : "Calling My Name", "artist" : null, "ft" : null, "rating" : 7, "tag" : null},
       { "name" : "Sticky", "artist" : null, "ft" : null, "rating" : 8, "tag" : null},
-      { "name" : "Massive", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
-      { "name" : "Flight's Booked", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
+      { "name" : "Massive", "artist" : null, "ft" : null, "rating" : 6, "tag" : null},
+      { "name" : "Flight's Booked", "artist" : null, "ft" : null, "rating" : 8, "tag" : null},
       { "name" : "Overdrive", "artist" : null, "ft" : null, "rating" : 10, "tag" : null},
-      { "name" : "Down Hill", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
-      { "name" : "Tie That Binds", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
-      { "name" : "Liability", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
+      { "name" : "Down Hill", "artist" : null, "ft" : null, "rating" : 8, "tag" : null},
+      { "name" : "Tie That Binds", "artist" : null, "ft" : null, "rating" : 6, "tag" : null},
+      { "name" : "Liability", "artist" : null, "ft" : null, "rating" : 6, "tag" : null},
       { "name" : "Jimmy Cooks", "artist" : null, "ft" : "21 Savage", "rating" : 10, "tag" : null}
     ]
 }
