@@ -1,0 +1,20 @@
+{
+    "title" : "An Evening With Sik Sonic",
+    "artist" : "Bruno Mars - Anderson.Paak - Silk Sonic",
+    "year" : 2021,
+    "rating" : 9,
+    "image" : "https://m.media-amazon.com/images/I/91Fa-A1oopL._SL1500_.jpg",
+    "color" : "#AD7757",
+    "songs" : [
+      { "name" : "Silk Sonic Intro", "artist" : null, "ft" : null, "rating" : 9, "tag" : null},
+      { "name" : "Leave The Door Open", "artist" : null, "ft" : null, "rating" : 10, "tag" : null},
+      { "name" : "Fly As Me", "artist" : null, "ft" : null, "rating" : 10, "tag" : null},
+      { "name" : "After Last Night", "artist" : null, "ft" : "Thundercat & Bootsy Collins", "rating" : 9, "tag" : null},
+      { "name" : "Smokin Out The Window", "artist" : null, "ft" : null, "rating" : 10, "tag" : null},
+      { "name" : "Put On A Smile", "artist" : null, "ft" : null, "rating" : 8, "tag" : null},
+      { "name" : "777", "artist" : null, "ft" : null, "rating" : 10, "tag" : null},
+      { "name" : "Skate", "artist" : null, "ft" : null, "rating" : 9, "tag" : null},
+      { "name" : "Love's Train", "artist" : null, "ft" : null, "rating" : 9, "tag" : null},
+      { "name" : "Blast Off", "artist" : null, "ft" : null, "rating" : 9, "tag" : null}
+    ]
+}
