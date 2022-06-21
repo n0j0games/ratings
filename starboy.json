@@ -7,7 +7,7 @@
     "color" : "#FF0044",
     "songs" : [
       { "name" : "Starboy", "artist" : null, "ft" : "Daft Punk", "rating" : 10, "tag" : null},
-      { "name" : "Party Monster", "artist" : null, "ft" : null, "rating" : 9, "tag" : null},
+      { "name" : "Party Monster", "artist" : null, "ft" : null, "rating" : 10, "tag" : null},
       { "name" : "False Alarm", "artist" : null, "ft" : null, "rating" : 10, "tag" : null},
       { "name" : "Reminder", "artist" : null, "ft" : null, "rating" : 10, "tag" : null},
       { "name" : "Rockin'", "artist" : null, "ft" : null, "rating" : 10, "tag" : null},
@@ -16,13 +16,13 @@
       { "name" : "Stargirl Interlude", "artist" : "Lana Del Rey", "ft" : null, "rating" : 9, "tag" : null},
       { "name" : "Sidewalks", "artist" : null, "ft" : "Kendrick Lamar", "rating" : 10, "tag" : null},
       { "name" : "Six Feet Under", "artist" : null, "ft" : "Future", "rating" : 9, "tag" : null},
-      { "name" : "Love To Lay", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
+      { "name" : "Love To Lay", "artist" : null, "ft" : null, "rating" : 10, "tag" : null},
       { "name" : "A Lonely Night", "artist" : null, "ft" : null, "rating" : 10, "tag" : null},
-      { "name" : "Attention", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
-      { "name" : "Ordinary Life", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
-      { "name" : "Nothing Without You", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
-      { "name" : "All I Know", "artist" : null, "ft" : "Future", "rating" : X, "tag" : null},
-      { "name" : "Die For You", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
+      { "name" : "Attention", "artist" : null, "ft" : null, "rating" : 8, "tag" : null},
+      { "name" : "Ordinary Life", "artist" : null, "ft" : null, "rating" : 10, "tag" : null},
+      { "name" : "Nothing Without You", "artist" : null, "ft" : null, "rating" : 9, "tag" : null},
+      { "name" : "All I Know", "artist" : null, "ft" : "Future", "rating" : 9, "tag" : null},
+      { "name" : "Die For You", "artist" : null, "ft" : null, "rating" : 9, "tag" : null},
       { "name" : "I Feel It Coming", "artist" : null, "ft" : "Daft Punk", "rating" : 10, "tag" : null}
     ]
 }
