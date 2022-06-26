@@ -1,0 +1,30 @@
+{
+    "title" : "Hoodie SZN",
+    "artist" : "A Boogie Wit da Hoodie",
+    "year" : 2018,
+    "rating" : X,
+    "image" : "https://m.media-amazon.com/images/I/812VOODYW4L._SS500_.jpg",
+    "color" : "#618CBA",
+    "songs" : [
+      { "name" : "Voices in My Head", "artist" : null, "ft" : null, "rating" : 6},
+      { "name" : "Beasty", "artist" : null, "ft" : null, "rating" : 6},
+      { "name" : "I Did It", "artist" : null, "ft" : null, "rating" : 5},
+      { "name" : "Swervin", "artist" : null, "ft" : "6ix9ine", "rating" : 10},
+      { "name" : "Startender", "artist" : null, "ft" : "Offset & Tyga", "rating" : 9},
+      { "name" : "Demons and Angels", "artist" : null, "ft" : "Juice WRLD", "rating" : 7},
+      { "name" : "Love Drugs and Sex", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "Skeezers", "artist" : null, "ft" : null, "rating" : 9},
+      { "name" : "Savage", "artist" : null, "ft" : null, "rating" : 8},
+      { "name" : "Come Closer", "artist" : null, "ft" : "Queen Naija", "rating" : 10},
+      { "name" : "Look Back at It", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "Just Like Me", "artist" : null, "ft" : "Young Thug", "rating" : 7},
+      { "name" : "Bosses and Workers", "artist" : null, "ft" : "Don Q and Trap Manny", "rating" : X},
+      { "name" : "Need a Best Friend", "artist" : null, "ft" : "Lil Quee & Quando Rondo", "rating" : X},
+      { "name" : "The Reaper", "artist" : null, "ft" : null, "rating" : X},
+      { "name" : "Uptown / Bustdown", "artist" : null, "ft" : "PnB Rock & Lil Durk", "rating" : X},
+      { "name" : "Billie Jean", "artist" : null, "ft" : null, "rating" : X},
+      { "name" : "4 Min Convo (Favorite Song)", "artist" : null, "ft" : null, "rating" : X},
+      { "name" : "Odee", "artist" : null, "ft" : null, "rating" : X},
+      { "name" : "Pull Up", "artist" : null, "ft" : "NAV", "rating" : X}
+    ]
+}
