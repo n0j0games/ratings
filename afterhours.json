@@ -19,6 +19,10 @@
       { "name" : "Save Your Tears", "artist" : null, "ft" : null, "rating" : 10},
       { "name" : "Repeat After Me (Interlude)", "artist" : null, "ft" : null, "rating" : 9},
       { "name" : "After Hours", "artist" : null, "ft" : null, "rating" : 10},
-      { "name" : "Until I Bleed Out", "artist" : null, "ft" : null, "rating" : 10}
+      { "name" : "Until I Bleed Out", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "Nothing Compares", "artist" : null, "ft" : null, "rating" : 6, "tag" : "Deluxe"},
+      { "name" : "Missed You", "artist" : null, "ft" : null, "rating" : 7, "tag" : "Deluxe"},
+      { "name" : "Final Lullaby", "artist" : null, "ft" : null, "rating" : 8, "tag" : "Deluxe"},
+      { "name" : "Save Your Tears (Remix)", "artist" : null, "ft" : "Ariana Grande", "rating" : 9, "tag" : "Deluxe"}
     ]
 }
