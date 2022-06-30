@@ -1,0 +1,23 @@
+{
+    "title" : "Swimming",
+    "artist" : "Mac Miller",
+    "year" : 2018,
+    "rating" : 10,
+    "image" : "https://m.media-amazon.com/images/I/61R58SHW+GL._SL1500_.jpg",
+    "color" : "#F6757A",
+    "songs" : [
+      { "name" : "Come Back To Earth", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "Hurt Feelings", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "What's the Use?", "artist" : null, "ft" : "Thundercat & Snoop Dogg", "rating" : 9},
+      { "name" : "Perfecto", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "Self Care", "artist" : null, "ft" : "JID", "rating" : 10},
+      { "name" : "Wings", "artist" : null, "ft" : null, "rating" : 8},
+      { "name" : "Ladders", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "Small Worlds", "artist" : null, "ft" : null, "rating" : 8},
+      { "name" : "Conversation pt. 1", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "Dunno", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "Jet Fuel", "artist" : null, "ft" : null, "rating" : 9},
+      { "name" : "2009", "artist" : null, "ft" : null, "rating" : 10},
+      { "name" : "So It Goes", "artist" : null, "ft" : null, "rating" : 9}
+    ]
+}
