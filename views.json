@@ -1,0 +1,30 @@
+{
+    "title" : "Views",
+    "artist" : "Drake",
+    "year" : 2015,
+    "rating" : 8,
+    "image" : "https://m.media-amazon.com/images/I/71fXWX04klL._SY450_.jpg",
+    "color" : "#C0CBDC",
+    "songs" : [
+      { "name" : "Keep The Family Close", "artist" : null, "ft" : null, "rating" : 10, "tag" : null},
+      { "name" : "9", "artist" : null, "ft" : null, "rating" : 7, "tag" : null},
+      { "name" : "U With Me?", "artist" : null, "ft" : null, "rating" : 8 , "tag" : null},
+      { "name" : "Feel No Ways", "artist" : null, "ft" : null, "rating" : 10, "tag" : null},
+      { "name" : "Hype", "artist" : null, "ft" : null, "rating" : 9, "tag" : null},
+      { "name" : "Weston Road Flows", "artist" : null, "ft" : null, "rating" : 6, "tag" : null},
+      { "name" : "Redemption", "artist" : null, "ft" : null, "rating" : 5, "tag" : null},
+      { "name" : "With You", "artist" : null, "ft" : "PARTYNEXTDOOR", "rating" : 5, "tag" : null},
+      { "name" : "Faithful", "artist" : null, "ft" : "dvsn & Pimp C", "rating" : 7, "tag" : null},
+      { "name" : "Still Here", "artist" : null, "ft" : null, "rating" : 9, "tag" : null},
+      { "name" : "Controlla", "artist" : null, "ft" : null, "rating" : 10, "tag" : null},
+      { "name" : "One Dance", "artist" : null, "ft" : "WizKid & Kyla", "rating" : 10, "tag" : null},
+      { "name" : "Grammys", "artist" : null, "ft" : "Future", "rating" : 7, "tag" : null},
+      { "name" : "Childs Play", "artist" : null, "ft" : null, "rating" : 8, "tag" : null},
+      { "name" : "Pop Style", "artist" : null, "ft" : null, "rating" : 10, "tag" : null},
+      { "name" : "Too Good", "artist" : null, "ft" : "Rihanna", "rating" : 7, "tag" : null},
+      { "name" : "Summer Over Interlude", "artist" : "Majid Jordan", "ft" : null, "rating" : 9, "tag" : null},
+      { "name" : "Fire & Desire", "artist" : null, "ft" : null, "rating" : 8, "tag" : null},
+      { "name" : "Views", "artist" : null, "ft" : null, "rating" : 8, "tag" : null},
+      { "name" : "Hotline Bling", "artist" : null, "ft" : null, "rating" : 10, "tag" : null}
+    ]
+}
