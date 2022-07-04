@@ -1,0 +1,19 @@
+{
+    "title" : "DRILL MUSIC IN ZION",
+    "artist" : "Lupe Fiasco",
+    "year" : 2022,
+    "rating" : X,
+    "image" : "https://i0.cdn.hhv.de/catalog/shop_detail_zoom/00921/921160.jpg",
+    "color" : "#FEE761",
+    "songs" : [
+      { "name" : "GHOTI", "artist" : null, "ft" : null, "rating" : 6, "tag" : null},
+      { "name" : "AUTOBOTO", "artist" : null, "ft" : "Nayirah", "rating" : 10, "tag" : null},
+      { "name" : "PRECIOUS THINGS", "artist" : null, "ft" : "Nayirah", "rating" : 9, "tag" : null},
+      { "name" : "KIOSK", "artist" : null, "ft" : null, "rating" : 9, "tag" : null},
+      { "name" : "MS. MURAL", "artist" : null, "ft" : null, "rating" : 8, "tag" : null},
+      { "name" : "NAOMI", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
+      { "name" : "DRILL MUSIC IN ZION", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
+      { "name" : "SEATTLE", "artist" : null, "ft" : "Nayirah", "rating" : X, "tag" : null},
+      { "name" : "ON FAUX NEM", "artist" : null, "ft" : null, "rating" : X, "tag" : null}
+    ]
+}
