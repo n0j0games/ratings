@@ -1,0 +1,26 @@
+{
+    "title" : "Goodbye & Good Riddance",
+    "artist" : "Juice WRLD",
+    "year" : 2018,
+    "rating" : X,
+    "image" : "https://m.media-amazon.com/images/I/81wSpWSGbVL._SL1400_.jpg",
+    "color" : "#FEE761",
+    "songs" : [
+      { "name" : "All Girls Are The Same", "artist" : null, "ft" : null, "rating" : 7, "tag" : null},
+      { "name" : "Lucid Dreams", "artist" : null, "ft" : null, "rating" : 10, "tag" : null},
+      { "name" : "Wasted", "artist" : null, "ft" : "Lil Uzi Vert", "rating" : 8, "tag" : null},
+      { "name" : "Armed And Dangerous", "artist" : null, "ft" : null, "rating" : 10, "tag" : null},
+      { "name" : "Black & White", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
+      { "name" : "Lean Wit Me", "artist" : null, "ft" : null, "rating" : 10, "tag" : null},
+      { "name" : "I'll Be Fine", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
+      { "name" : "Used To", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
+      { "name" : "Candles", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
+      { "name" : "Scared Of Love", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
+      { "name" : "Hurt Me", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
+      { "name" : "I'm Still", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
+      { "name" : "End Of The Road", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
+      { "name" : "Long Game", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
+      { "name" : "734", "artist" : null, "ft" : null, "rating" : X, "tag" : "Anniversary Edition"},
+      { "name" : "Lucid Dreams - Remix", "artist" : null, "ft" : "Lil Uzi Vert", "rating" : X, "tag" : "Anniversary Edition"},
+    ]
+}
