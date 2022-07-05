@@ -1,0 +1,30 @@
+{
+    "title" : "Luv Is Rage 2",
+    "artist" : "Lil Uzi Vert",
+    "year" : 2018,
+    "rating" : 7,
+    "image" : "https://m.media-amazon.com/images/I/81TNEeBI11L._SL1425_.jpg",
+    "color" : "#94B0C2",
+    "songs" : [
+      { "name" : "Two(R)", "artist" : null, "ft" : null, "rating" : 7, "tag" : null},
+      { "name" : "444+222", "artist" : null, "ft" : null, "rating" : 10, "tag" : null},
+      { "name" : "Sauce It Up", "artist" : null, "ft" : null, "rating" : 9, "tag" : null},
+      { "name" : "No Sleep Leak", "artist" : null, "ft" : null, "rating" : 5, "tag" : null},
+      { "name" : "The Way Life Goes", "artist" : null, "ft" : "Oh Wonder", "rating" : 10, "tag" : null},
+      { "name" : "For Real", "artist" : null, "ft" : null, "rating" : 4, "tag" : null},
+      { "name" : "Feelings Mutual", "artist" : null, "ft" : null, "rating" : 4, "tag" : null},
+      { "name" : "Neon Guts", "artist" : null, "ft" : "Pharell Williams", "rating" : 6, "tag" : null},
+      { "name" : "Early 20 Rager", "artist" : null, "ft" : null, "rating" : 4, "tag" : null},
+      { "name" : "UnFazed", "artist" : null, "ft" : "The Weeknd", "rating" : 9, "tag" : null},
+      { "name" : "Pretty Mami", "artist" : null, "ft" : null, "rating" : 6, "tag" : null},
+      { "name" : "How To Talk", "artist" : null, "ft" : null, "rating" : 6, "tag" : null},
+      { "name" : "X", "artist" : null, "ft" : null, "rating" : 6, "tag" : null},
+      { "name" : "Malfunction", "artist" : null, "ft" : null, "rating" : 7, "tag" : null},
+      { "name" : "Dark Queen", "artist" : null, "ft" : null, "rating" : 7, "tag" : null},
+      { "name" : "XO Tour Lif3", "artist" : null, "ft" : null, "rating" : 10, "tag" : null},
+      { "name" : "Skir Skir", "artist" : null, "ft" : null, "rating" : 5, "tag" : "Deluxe"},
+      { "name" : "Loaded", "artist" : null, "ft" : null, "rating" : 7, "tag" : "Deluxe"},
+      { "name" : "Diamonds All on My Waist", "artist" : null, "ft" : null, "rating" : 6, "tag" : "Deluxe"},
+      { "name" : "20 Min", "artist" : null, "ft" : null, "rating" : 10, "tag" : "Deluxe"}
+    ]
+}
