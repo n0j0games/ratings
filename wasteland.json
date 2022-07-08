@@ -2,24 +2,24 @@
     "title" : "WASTELAND",
     "artist" : "Brent Faiyaz",
     "year" : 2022,
-    "rating" : X,
+    "rating" : 8,
     "image" : "https://pbs.twimg.com/media/FVes3SCUcAABbt4?format=jpg&name=360x360",
     "color" : "#FF77A8",
     "songs" : [
       { "name" : "LOOSE CHANGE", "artist" : null, "ft" : null, "rating" : 7, "tag" : null},
       { "name" : "GRAVITY", "artist" : null, "ft" : "DJ Dahi & Tyler, The Creator", "rating" : 10, "tag" : null},
       { "name" : "HEAL YOUR HEART (INTERLUDE)", "artist" : null, "ft" : null, "rating" : 8, "tag" : null},
-      { "name" : "ALL MINE", "artist" : null, "ft" : null, "rating" : 8, "tag" : null},
-      { "name" : "PRICE OF FAME", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
-      { "name" : "GHETTO GATSBY", "artist" : null, "ft" : "Alicia Keys", "rating" : X, "tag" : null},
-      { "name" : "WASTING TIME", "artist" : null, "ft" : "Drake & The Neptunes", "rating" : X, "tag" : null},
-      { "name" : "ROLLING STONE", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
-      { "name" : "FYTB", "artist" : null, "ft" : "Joony", "rating" : X, "tag" : null},
-      { "name" : "DEAD MAN WALKING", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
-      { "name" : "ADDICTIONS", "artist" : null, "ft" : "Tre' Amani", "rating" : X, "tag" : null},
-      { "name" : "ROLE MODEL", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
-      { "name" : "JACKIE BROWN", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
-      { "name" : "BAD LUCK", "artist" : null, "ft" : null, "rating" : X, "tag" : null},
-      { "name" : "ANGEL", "artist" : null, "ft" : null, "rating" : X, "tag" : null}
-    ]
+      { "name" : "ALL MINE", "artist" : null, "ft" : null, "rating" : 10, "tag" : null},
+      { "name" : "PRICE OF FAME", "artist" : null, "ft" : null, "rating" : 7, "tag" : null},
+      { "name" : "GHETTO GATSBY", "artist" : null, "ft" : "Alicia Keys", "rating" : 8, "tag" : null},
+      { "name" : "WASTING TIME", "artist" : null, "ft" : "Drake & The Neptunes", "rating" : 7, "tag" : null},
+      { "name" : "ROLLING STONE", "artist" : null, "ft" : null, "rating" : 8, "tag" : null},
+      { "name" : "FYTB", "artist" : null, "ft" : "Joony", "rating" : 6, "tag" : null},
+      { "name" : "DEAD MAN WALKING", "artist" : null, "ft" : null, "rating" : 8, "tag" : null},
+      { "name" : "ADDICTIONS", "artist" : null, "ft" : "Tre' Amani", "rating" : 8, "tag" : null},
+      { "name" : "ROLE MODEL", "artist" : null, "ft" : null, "rating" : 9, "tag" : null},
+      { "name"  "JACKIE BROWN", "artist" : null, "ft" : null, "rating" : 7, "tag" : null},
+      { "name" : "BAD LUCK", "artist" : null, "ft" : null, "rating" : 7, "tag" : null},
+      { "name" : "ANGEL", "artist" : null, "ft" : null, "rating" : 8, "tag" : null}
+    
 }
