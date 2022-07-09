@@ -1,0 +1,28 @@
+{
+    "title" : "Eternal Atake",
+    "artist" : "Lil Uzi Vert",
+    "year" : 2020,
+    "rating" : 7,
+    "image" : "https://m.media-amazon.com/images/I/81-SFiRVerL._SL1425_.jpg",
+    "color" : "#3C5E8B",
+    "songs" : [
+      { "name" : "Baby Pluto", "artist" : null, "ft" : null, "rating" : 10, "tag" : null},
+      { "name" : "Lo Mein", "artist" : null, "ft" : null, "rating" : 6, "tag" : null},
+      { "name" : "Silly Watch", "artist" : null, "ft" : null, "rating" : 5, "tag" : null},
+      { "name" : "POP", "artist" : null, "ft" : null, "rating" : 6, "tag" : null},
+      { "name" : "You Better Move", "artist" : null, "ft" : null, "rating" : 6, "tag" : null},
+      { "name" : "Homecoming", "artist" : null, "ft" : null, "rating" : 8, "tag" : null},
+      { "name" : "I'm Sorry", "artist" : null, "ft" : null, "rating" : 6, "tag" : null},
+      { "name" : "Celebration Station", "artist" : null, "ft" : null, "rating" : 9, "tag" : null},
+      { "name" : "Bigger Than Life", "artist" : null, "ft" : null, "rating" : 6, "tag" : null},
+      { "name" : "Chrome Heart Tag", "artist" : null, "ft" : null, "rating" : 8, "tag" : null},
+      { "name" : "Bust Me", "artist" : null, "ft" : null, "rating" : 8, "tag" : null},
+      { "name" : "Prices", "artist" : null, "ft" : null, "rating" : 10, "tag" : null},
+      { "name" : "Urgency", "artist" : null, "ft" : "Syd", "rating" : 7, "tag" : null},
+      { "name" : "Venetia", "artist" : null, "ft" : null, "rating" : 7, "tag" : null},
+      { "name" : "Secure The Bag", "artist" : null, "ft" : null, "rating" : 6, "tag" : null},
+      { "name" : "P2", "artist" : null, "ft" : null, "rating" : 6, "tag" : null},
+      { "name" : "Futsal Shuffle 2020", "artist" : null, "ft" : null, "rating" : 9, "tag" : "Bonus Tracks"},
+      { "name" : "That Way", "artist" : null, "ft" : null, "rating" : 8, "tag" : "Bonus Tracks"}
+    ]
+}
