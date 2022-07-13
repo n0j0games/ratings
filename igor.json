@@ -1,0 +1,21 @@
+{
+    "title" : "IGOR",
+    "artist" : "Tyler, The Creator",
+    "year" : 2019,
+    "rating" : 10,
+    "image" : "https://m.media-amazon.com/images/I/81MJUW7iUaL._SY355_.jpg",
+    "color" : "#F6757A",
+    "songs" : [
+      { "name" : "IGOR'S THEME", "artist" : null, "ft" : "Lil Uzi Vert & Solange", "rating" : 10, "tag" : null},
+      { "name" : "EARFQUAKE", "artist" : null, "ft" : "Playboi Carti & Charlie Wilson", "rating" : 10, "tag" : null},
+      { "name" : "I THINK", "artist" : null, "ft" : "Solange", "rating" : 10, "tag" : null},
+      { "name" : "RUNNING OUT OF TIME", "artist" : null, "ft" : null, "rating" : 10, "tag" : null},
+      { "name" : "NEW MAGIC WAND", "artist" : null, "ft" : "Santigold & Jessy Wilson", "rating" : 10, "tag" : null},
+      { "name" : "A BOY IS A GUN*", "artist" : null, "ft" : null, "rating" : 10, "tag" : null},
+      { "name" : "PUPPET", "artist" : null, "ft" : "Kanye West", "rating" : 9, "tag" : null},
+      { "name" : "WHAT'S GOOD", "artist" : null, "ft" : "slowthai", "rating" : 7, "tag" : null},
+      { "name" : "GONE, GONE / THANK YOU", "artist" : null, "ft" : "CeeLo Green", "rating" : 10, "tag" : null},
+      { "name" : "I DON'T LOVE YOU ANYMORE", "artist" : null, "ft" : null, "rating" : 9, "tag" : null},
+      { "name" : "ARE WE STILL FRIENDS?", "artist" : null, "ft" : null, "rating" : 10, "tag" : null}
+    ]
+}
