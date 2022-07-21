@@ -17,7 +17,7 @@
       { "name" : "911 / Mr. Lonely", "artist" : null, "ft" : "Frank Ocean & Steve Lacy", "rating" : 9},
       { "name" : "Droppin' Seeds", "artist" : null, "ft" : "Lil Wayne", "rating" : 7},
       { "name" : "November", "artist" : null, "ft" : null, "rating" : 7},
-      { "name" : "Glitter", "artist" : null, "ft" : null, "rating" : 10}
+      { "name" : "Glitter", "artist" : null, "ft" : null, "rating" : 10},
       { "name" : "Enjoy Right Now, Today", "artist" : null, "ft" : null, "rating" : 7}
     ]
 }
